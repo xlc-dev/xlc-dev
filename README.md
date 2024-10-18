@@ -1,31 +1,33 @@
 ## Hi there 👋
 
-📊 **What happened this week:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xlc-dev&show_icons=true&theme=gotham" alt="xlc-dev" />
+</p>
 
-<!--START_SECTION:waka-->
+---
 
-```txt
-No activity tracked
-```
+### 🧰 Languages & Tools
 
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/lisp.png" alt="Lisp" />
+  <img src="https://img.icons8.com/color/48/000000/svelte.png" alt="Svelte" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/vscode.png" alt="VS Code" />
+</p>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### ✨ Recent Activity
 
-🚧 **Todoist stats:**
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xlc-dev&theme=gotham" alt="Activity Graph" />
+</p>
 
-<!-- TODO-IST:START -->
+---
 
-🏆 0 Karma Points
+### 🌟 Contributions
 
-🌸 Completed 0 tasks today
-
-✅ Completed 0 tasks so far
-
-⏳ Longest streak is 0 days
-
-<!-- TODO-IST:END -->
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xlc-dev&show_icons=true&theme=gotham" alt="xlc-dev" />
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=xlc-dev&theme=gotham&hide_border=true" alt="Contributions" />
+</p>

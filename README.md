@@ -19,8 +19,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 
 🏆 0 Karma Points
+
 🌸 Completed 0 tasks today
+
 ✅ Completed 0 tasks so far
+
 ⏳ Longest streak is 0 days
 
 <!-- TODO-IST:END -->

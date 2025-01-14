@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm a passionate Software Engineer who loves exploring new technologies, solving complex problems, and working on innovative projects. I mainly work in C and Lua in my space time, developing my own custom Destop Environment.  
+I'm a passionate Software Engineer who loves exploring new technologies, solving complex problems, and working on innovative projects. I mainly work in C and Lua in my spare time, developing my own custom Destop Environment.  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlc-dev&layout=compact&theme=gotham" alt="" />
@@ -54,7 +54,7 @@ I've built quite a couple projects thorugh my short but productive programming c
 ### Open Source
 - [**LES**](https://github.com/xlc-dev/LES): LES (Local Energy System) is an open-source platform that simulates a virtual world of households and appliances, allowing researchers to develop and test algorithms for optimizing energy usage and cost savings.
 - [**Nexus**](https://github.com/xlc-dev/nexus): A collection of header-only C libraries designed to make working with C more bearable. 
-- [**Fragart**](https://github.com/xlc-dev/fragart): Showcasing my shader art with OpenGL 3.3 and using Nexus.
+- [**Fragart**](https://github.com/xlc-dev/fragart): Showcasing my shader art with OpenGL 3.3 using Nexus.
 
 ### Closed Source
 - **Drone Delivery Group**: Drone Delivery Group is a project with a team of 6 about a self-flying AI drone project that leverages machine learning and a custom Raylib simulation. Controlled via Orange Pi through WiFi, Infrared, or 4G LTE, the drone is designed to deliver packages autonomously.

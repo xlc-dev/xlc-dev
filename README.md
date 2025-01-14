@@ -58,5 +58,5 @@ I've built quite a couple projects thorugh my short but productive programming c
 
 ### Closed Source
 - **Drone Delivery Group**: Drone Delivery Group is a project with a team of 6 about a self-flying AI drone project that leverages machine learning and a custom Raylib simulation. Controlled via Orange Pi through WiFi, Infrared, or 4G LTE, the drone is designed to deliver packages autonomously.
-- **Aether**: My custom Desktop Environment written in C and Lua I'm working on running on Wayland, capable of doing window management, TUI applications and more.
+- **Aether**: My custom Desktop Environment written in C and Lua. It runs on Wayland, capable of doing window management, TUI applications, a IDE and more.
 - **Uplift**: A browser-based visual novel-style game built with Svelte and Deno, where players operate a taxi and engage with passengers' unique stories to inspire courage for life-changing actions.
